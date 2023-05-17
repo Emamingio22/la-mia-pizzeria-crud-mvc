@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 70%;
+    
+}
+
+body {
+    margin-bottom: 60px;
+    background: url('https://staticcookist.akamaized.net/wp-content/uploads/sites/21/2020/06/pizza-napoletana-forno-a-legna-1200x675.jpg')no-repeat;
+    background-size: cover;
+}
+
+
+
+.navbar {
+    font-size: large;
+    
+}
+
+
+
+.contact {
+    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+    background-color;
+}
+
+
+.margin-footer {
+    margin: auto;
+    padding: auto;
+}
+
